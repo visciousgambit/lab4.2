@@ -1,0 +1,19 @@
+#maintext {
+    display: block;
+    text-align: center;
+    background-color: aqua;
+}
+
+#textfield {
+    display: block;
+    text-align: justify;
+    padding: 15px;
+}
+
+#maintitle {
+    display: block;
+    text-align: center;
+    background-color: blue;
+    padding-bottom: 25px;
+}
+
